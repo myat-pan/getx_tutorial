@@ -1,0 +1,148 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Hamburger",
+            "price": 2500,
+            "add_to_cart": false
+        },
+        {
+            "id": 2,
+            "name": "Fries",
+            "price": 1500,
+            "add_to_cart": false
+        },
+        {
+            "id": 3,
+            "name": "Juice",
+            "price": 2000,
+            "add_to_cart": false
+        },
+        {
+            "id": 4,
+            "name": "Fried Chicken",
+            "price": 2000,
+            "add_to_cart": false
+        },
+        {
+            "id": 1,
+            "name": "Hamburger",
+            "price": 2500,
+            "add_to_cart": false
+        },
+        {
+            "id": 2,
+            "name": "Fries",
+            "price": 1500,
+            "add_to_cart": false
+        },
+        {
+            "id": 3,
+            "name": "Juice",
+            "price": 2000,
+            "add_to_cart": false
+        },
+        {
+            "id": 4,
+            "name": "Fried Chicken",
+            "price": 2000,
+            "add_to_cart": false
+        },
+        {
+            "id": 1,
+            "name": "Hamburger",
+            "price": 2500,
+            "add_to_cart": false
+        },
+        {
+            "id": 2,
+            "name": "Fries",
+            "price": 1500,
+            "add_to_cart": false
+        },
+        {
+            "id": 3,
+            "name": "Juice",
+            "price": 2000,
+            "add_to_cart": false
+        },
+        {
+            "id": 4,
+            "name": "Fried Chicken",
+            "price": 2000,
+            "add_to_cart": false
+        },
+        {
+            "id": 1,
+            "name": "Hamburger",
+            "price": 2500,
+            "add_to_cart": false
+        },
+        {
+            "id": 2,
+            "name": "Fries",
+            "price": 1500,
+            "add_to_cart": false
+        },
+        {
+            "id": 3,
+            "name": "Juice",
+            "price": 2000,
+            "add_to_cart": false
+        },
+        {
+            "id": 4,
+            "name": "Fried Chicken",
+            "price": 2000,
+            "add_to_cart": false
+        },
+        {
+            "id": 1,
+            "name": "Hamburger",
+            "price": 2500,
+            "add_to_cart": false
+        },
+        {
+            "id": 2,
+            "name": "Fries",
+            "price": 1500,
+            "add_to_cart": false
+        },
+        {
+            "id": 3,
+            "name": "Juice",
+            "price": 2000,
+            "add_to_cart": false
+        },
+        {
+            "id": 4,
+            "name": "Fried Chicken",
+            "price": 2000,
+            "add_to_cart": false
+        },
+        {
+            "id": 1,
+            "name": "Hamburger",
+            "price": 2500,
+            "add_to_cart": false
+        },
+        {
+            "id": 2,
+            "name": "Fries",
+            "price": 1500,
+            "add_to_cart": false
+        },
+        {
+            "id": 3,
+            "name": "Juice",
+            "price": 2000,
+            "add_to_cart": false
+        },
+        {
+            "id": 4,
+            "name": "Fried Chicken",
+            "price": 2000,
+            "add_to_cart": false
+        }
+    ]
+}
